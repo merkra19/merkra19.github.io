@@ -1,0 +1,34 @@
+h1{
+	background: rgb(203,223,233);
+background: linear-gradient(90deg, rgba(203,223,233,1) 2%, rgba(65,142,208,1) 47%);
+}
+ body{
+ 	min-height: 100vh;
+ 	background: rgb(203,223,233);
+background: linear-gradient(90deg, rgba(203,223,233,1) 2%, rgba(65,125,159,1) 46%, rgba(158,203,230,1) 100%);
+
+ }
+
+ h2{
+ 	padding: 50px;
+ background: rgb(203,223,233);
+background: linear-gradient(0deg, rgba(203,223,233,1) 2%, rgba(65,142,208,1) 16%, rgba(116,169,214,1) 25%, rgba(67,124,172,1) 41%, rgba(56,113,161,1) 61%);
+
+ 
+ }
+
+ h3{
+ 	color: darkblue;
+ 	padding: 50px;
+ 	background: rgb(203,223,233);
+background: radial-gradient(circle, rgba(203,223,233,1) 2%, rgba(65,142,208,1) 16%, rgba(116,169,214,1) 25%);
+ }
+
+ h4{
+ 	color: lightblue;
+ 	padding: 50px;
+ 	background: rgb(203,223,233);
+background: linear-gradient(240deg, rgba(203,223,233,1) 2%, rgba(65,142,208,1) 16%, rgba(116,169,214,1) 25%, rgba(116,169,214,1) 36%, rgba(116,169,214,1) 48%, rgba(116,169,214,1) 62%, rgba(116,169,214,1) 81%, rgba(88,143,190,1) 91%);
+ 	
+
+ }
