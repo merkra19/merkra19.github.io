@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Hind+Madurai:wght@300&family=Meow+Script&family=Pacifico&display=swap');
+h1{
+	background-color: lightpink;
+	color: white;
+	font-size: 50px;
+	padding: 30px;
+	margin: 20px;
+	text-align: center;
+	letter-spacing: 0.5em;
+	font-family: "Pacifico";
+	transform: rotate(180deg);
+}
+h2{
+	text-align: right;
+	background-color: lightblue;
+	color: white;
+	padding: 40px;
+	font-family: "Bebas Neue";
+}
+
+p{
+	font-size: 25px;
+	text-align: justify;
+	column-count: 3;
+	padding: 30px;
+	line-height: 1.5;
+	font-family: "Hind Madurai";
+
+}
+
+body{
+	background: linear-gradient(
+		77deg,
+		lightyellow 0%,
+		lightblue 100%
+
+		);
+}
