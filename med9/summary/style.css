@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Hind+Madurai:wght@300&family=Meow+Script&family=Pacifico&family=Quintessential&display=swap');
+h1{
+	font-size: 40px;
+	color: cadetblue;
+	background-color: beige;
+	margin: 20px;
+	border: 5px solid blanchedalmond;
+	text-align: center;
+	font-family:Bangers ;
+}
+
+h2{
+	font-size: 30px;
+	color: lightblue;
+	margin: 20px;
+	border: 5px solid blanchedalmond;
+	background-color: beige;
+	text-align: center;
+
+}
+
+h3{
+	font-size: 20px;
+	color: lightgreen;
+	margin: 20px;
+	border: 5px solid blanchedalmond;
+	background-color: beige;
+	text-align: center;
+}
+
+img{
+	width: 400px;
+	
+	margin: 30px;
+}
+
+p{
+	font-size: 25px;
+	text-align: justify;
+	column-count: 2;
+	padding: 30px;
+	line-height: 1.5;
+	font-family: Quintessential;
+}
+body{
+	background-color: lightgrey;
+	background: rgb(184, 182, 169);
+	background: linear-gradient(0deg, rgba(203,223,233,1) 2%, rgba(65,142,208,1) 16%, rgba(116,169,214,1) 25%, rgba(67,124,172,1) 41%, rgba(56,113,161,1) 61%);
+
+}
+
+ol{
+	font-size: 30px;
+	color: black;
+	background-color: beige;
+	padding: 20px;
+	margin: 20px;
+}
+ul{
+	font-size: 30px;
+	color: black;
+	background-color: beige;
+	padding: 20px;
+	margin: 20px;
+}
