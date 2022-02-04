@@ -1,0 +1,45 @@
+div{
+	background-color: lightblue;
+	height: 500px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+
+h1{
+	background-color: palegoldenrod;
+	margin: 1px;
+	padding: 5px;
+}
+.greenbox{
+	background-color: lightseagreen;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+img{
+	border: dotted bisque;
+	margin: 10px;
+	height: 300px;
+}
+.med9{
+	background-color: lightblue;
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-end;
+}
+
+.Media{
+
+
+	display: flex;
+	justify-content: space-between;
+	align-items: stretch;
+	background: rgb(157,164,194);
+background: linear-gradient(240deg, rgba(157,164,194,1) 2%, rgba(99,141,182,1) 20%, rgba(125,170,208,1) 25%, rgba(47,123,187,1) 48%, rgba(111,160,201,1) 62%, rgba(47,108,162,1) 75%, rgba(68,118,161,1) 81%, rgba(139,136,173,1) 91%);
+}
+p{
+	margin: 0px;
+	background-color: lightblue;
+	padding: 10px;
+}
