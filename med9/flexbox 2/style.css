@@ -1,0 +1,55 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Arvo:wght@700&family=Fuzzy+Bubbles&family=Inconsolata&family=Luxurious+Script&family=Satisfy&display=swap');.A{
+
+font-family: Inconsolata;
+font-size: 45px;
+background: rgb(193,230,140);
+background: radial-gradient(circle, rgba(193,230,140,1) 13%, rgba(225,140,230,1) 29%, rgba(220,202,136,1) 47%, rgba(108,130,207,1) 71%, rgba(207,108,152,1) 84%);
+display:flex;
+justify-content: center;
+align-items:flex-end; }
+
+.A
+img{
+	height: 300px;
+}
+
+.B{
+font-family: Inconsolata;
+
+font-size: 45px;
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(120,76,171,1) 30%, rgba(83,186,131,1) 45%, rgba(123,159,125,1) 58%, rgba(147,148,122,1) 66%, rgba(252,70,107,1) 100%);}
+
+.C{
+font-family: Inconsolata;
+font-size: 45px;
+background: rgb(193,230,140);
+background: radial-gradient(circle, rgba(193,230,140,1) 13%, rgba(225,140,230,1) 29%, rgba(220,202,136,1) 47%, rgba(108,130,207,1) 71%, rgba(207,108,152,1) 84%);
+}
+
+.D{font-family: Inconsolata;
+font-size: 45px;
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(120,76,171,1) 30%, rgba(83,186,131,1) 45%, rgba(123,159,125,1) 58%, rgba(147,148,122,1) 66%, rgba(252,70,107,1) 100%);
+
+}.E{
+font-family: Inconsolata;
+font-size: 45px;
+background: rgb(193,230,140);
+background: radial-gradient(circle, rgba(193,230,140,1) 13%, rgba(225,140,230,1) 29%, rgba(220,202,136,1) 47%, rgba(108,130,207,1) 71%, rgba(207,108,152,1) 84%);}.F{font-family: Inconsolata;
+font-size: 45px;
+background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(120,76,171,1) 30%, rgba(83,186,131,1) 45%, rgba(123,159,125,1) 58%, rgba(147,148,122,1) 66%, rgba(252,70,107,1) 100%);
+
+}.G{font-family: Inconsolata;
+font-size: 45px;
+background: rgb(193,230,140);
+background: radial-gradient(circle, rgba(193,230,140,1) 13%, rgba(225,140,230,1) 29%, rgba(220,202,136,1) 47%, rgba(108,130,207,1) 71%, rgba(207,108,152,1) 84%);
+}
+
+img{
+height: 250px;
+}
+
